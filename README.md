@@ -1,0 +1,1 @@
+Projeto baseado em um sistema de marketing, onde há registro de cliente (leads), que podem estar inseridos em grupos e campanhas. O projeto administra suas respectivas relações. Foi desenvolvido apenas com finalidade de aprimoramento em conceitos de SQL utiliando prisma ORM.
